@@ -56,7 +56,7 @@ Ter o **Python 3.x** instalado em sua máquina.
 
 1. **Clone o repositório:**
 ```bash
-   git clone [https://github.com/Ygorfnascimento/Rede_Social-Flesh.git](https://github.com/Ygorfnascimento/Rede_Social-Flesh.git)
+   git clone https://github.com/Ygorfnascimento/Rede_Social-Flesh.git
    cd Rede_Social-Flesh
 ```
 2. **Crie e ative um ambiente virtual (Opcional, mas recomendado):**
