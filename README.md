@@ -1,6 +1,6 @@
 # 📸 Rede Social Flesh
 
-Uma aplicação web completa estruturada como uma rede social focada no compartilhamento de fotos, desenvolvida em Python com o ecossistema Flask. O projeto conta com autenticação de usuários, criação de perfis personalizáveis e um feed dinâmico de postagens.
+Uma aplicação web estruturada como uma rede social focada no compartilhamento de fotos, desenvolvida em Python com o ecossistema Flask. O projeto conta com autenticação de usuários, criação de perfis personalizáveis e um feed dinâmico de postagens.
 
 ---
 
@@ -9,7 +9,7 @@ Uma aplicação web completa estruturada como uma rede social focada no comparti
 * **Back-end:** Python, Flask
 * **Formulários e Validação:** Flask-WTF / WTForms
 * **Banco de Dados & ORM:** SQLite, SQLAlchemy (gerenciado via `create_database.py`)
-* **Front-end:** HTML5, CSS3, Bootstrap 5 (Estilização e Responsividade), Jinja2 (Mecanismo de templates do Flask)
+* **Front-end:** HTML5, Bootstrap 5, Jinja2 
 
 ---
 
@@ -55,9 +55,10 @@ Ter o **Python 3.x** instalado em sua máquina.
 ### Passo a Passo
 
 1. **Clone o repositório:**
-   ```bash
+```bash
    git clone [https://github.com/Ygorfnascimento/Rede_Social-Flesh.git](https://github.com/Ygorfnascimento/Rede_Social-Flesh.git)
    cd Rede_Social-Flesh
+```
 2. **Crie e ative um ambiente virtual (Opcional, mas recomendado):**
 ```bash
 python -m venv venv
